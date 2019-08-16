@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1060296111194",
+    "firebase_url": "https://goparts-ae.firebaseio.com",
+    "project_id": "goparts-ae",
+    "storage_bucket": "goparts-ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060296111194:android:4db6726a198a0899",
+        "android_client_info": {
+          "package_name": "com.goparts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060296111194-d88cbt9n207bnd4tn8r5ij7n3fv8ok10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnWpTaqOfweXpn_v7gQuSzLnmKOPI4L9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060296111194-d88cbt9n207bnd4tn8r5ij7n3fv8ok10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
